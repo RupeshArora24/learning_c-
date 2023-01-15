@@ -7,7 +7,7 @@ int main(){
     for(i=a;i<b;i++){
        for(j=2;j<i;j++){
          if(i%j==0){
-           cout<<i<<" = non prime"<<endl;
+          //print_prime_nos_between_andb.cpp 
            break;
          }
           
