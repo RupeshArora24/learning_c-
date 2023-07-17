@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    bool c;
     int a; // declaration of intiger variable
     a = 12; // intialization
     cout<<"size of intiger a = "<<sizeof(a)<<"bytes"<<endl;
@@ -9,7 +10,7 @@ int main()
     float b;// declaration of float variable 
     cout<<"size of float b = "<<sizeof(b)<<"bytes"<<endl;
 
-    bool c;
+   
     cout<<"size of boolean variable c = "<<sizeof(c)<<"bytes"<<endl;
 
     char d; 
