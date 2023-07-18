@@ -6,7 +6,8 @@ using namespace std;
 int main(){
     int n;
     cin>>n;
-    do{                       // In this loop the body of loop will run firt time without checking the condition
+    do{                       // In this loop the body of loop will run firt time without checking the condition 
+                              // only the loop will run one time without the condition and then it will run when condition is satisfied
        cout<<n<<endl;
        cin>>n;
     }while(n>0);
