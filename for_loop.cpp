@@ -2,7 +2,7 @@
 using namespace std;
 
 //Program for sum of numbers till n
-
+//for loop revision one 
  int main(){
 
     int n,sum,i;
