@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// going through if elese
 int main(){
     int savings;
 cin>>savings;
